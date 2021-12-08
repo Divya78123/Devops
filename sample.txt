@@ -1,2 +1,3 @@
 This is the second line of smaple.txt file
-this is the third line of sample.txt from git
+this is the third line of sampl
+third line added
